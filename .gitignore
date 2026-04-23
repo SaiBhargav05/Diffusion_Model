@@ -1,0 +1,4 @@
+diffusion/
+__pycache__/
+data/
+*.png
