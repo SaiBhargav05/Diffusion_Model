@@ -109,9 +109,4 @@ I would like to express my sincere gratitude to Umar Jamil for his exceptional e
 
 Tutorial: Coding Stable Diffusion from scratch in PyTorch by Umar Jamil.
 
-References
-Denoising Diffusion Probabilistic Models — Ho et al., 2020
 
-High-Resolution Image Synthesis with Latent Diffusion Models — Rombach et al., 2022
-
-Learning Transferable Visual Models From Natural Language Supervision — Radford et al., 2021
